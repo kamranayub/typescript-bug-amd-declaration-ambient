@@ -1,0 +1,14 @@
+{
+  "name": "typescript-bug-amd-declaration-ambient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -p ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "2.3.3"
+  }
+}
